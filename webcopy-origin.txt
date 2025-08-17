@@ -1,0 +1,36 @@
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\kundencenter-telekom-14k.pages.dev\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Lato
+File Name: C:\Downloaded Web Sites\kundencenter-telekom-14k.pages.dev\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\kundencenter-telekom-14k.pages.dev\s\lato\v24\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://kundencenter-telekom-14k.pages.dev/Assets/2.png
+File Name: C:\Downloaded Web Sites\kundencenter-telekom-14k.pages.dev\Assets\2.png
+Content Type: image/png
+
+Uri: https://kundencenter-telekom-14k.pages.dev/Assets/3.png
+File Name: C:\Downloaded Web Sites\kundencenter-telekom-14k.pages.dev\Assets\3.png
+Content Type: image/png
+
+Uri: https://kundencenter-telekom-14k.pages.dev/Assets/login-26.16.0.css
+File Name: C:\Downloaded Web Sites\kundencenter-telekom-14k.pages.dev\Assets\login-26.16.0.css
+Content Type: text/css
+
+Uri: https://kundencenter-telekom-14k.pages.dev/Assets/scale-components.css
+File Name: C:\Downloaded Web Sites\kundencenter-telekom-14k.pages.dev\Assets\scale-components.css
+Content Type: text/css
+
+Uri: https://kundencenter-telekom-14k.pages.dev/custom.css
+File Name: C:\Downloaded Web Sites\kundencenter-telekom-14k.pages.dev\custom.css
+Content Type: text/css
+
+Uri: https://kundencenter-telekom-14k.pages.dev/QuotezurücL068luqzen
+File Name: C:\Downloaded Web Sites\kundencenter-telekom-14k.pages.dev\QuotezurücL068luqzen.html
+Content Type: text/html
+
